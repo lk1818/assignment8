@@ -1,0 +1,16 @@
+Position = 1:
+Expected Value of daily returns: 0.001
+Standard Deviation of daily returns: 0.9999995
+
+Position = 10:
+Expected Value of daily returns: 0.02216
+Standard Deviation of daily returns: 0.314141583366
+
+Position = 100:
+Expected Value of daily returns: 0.020536
+Standard Deviation of daily returns: 0.100249851391
+
+Position = 1000:
+Expected Value of daily returns: 0.0201374
+Standard Deviation of daily returns: 0.0316763116736
+
